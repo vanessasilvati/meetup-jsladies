@@ -21,7 +21,7 @@ body {
   }
   
 .avatar {
-    width: 300px;
+    width: 150px;
     border-radius: 30%;
     float: left;
   }
@@ -36,6 +36,7 @@ body {
   }
   
 .center {
+    text-align: centert;
     display: block;
     margin: 0 auto;
   }
